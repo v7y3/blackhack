@@ -102,7 +102,7 @@ function banner(){
     echo -e "\t     (  (     (  (     )  .  (  .  (   (   (   ( (   ((  (  ( (  "
     echo -e "\t    ()) )\   ()) )\   (()  . )\  . )\  )\  )\  )\)\  ))\ )\ )\)\ "
     echo -e "\t   (_)()_() ((_))(_)__)(_)  ((_)  ((_)((_)((_)(_)(_)((_)((_)_)(_)|"
-    echo -e "\t  @v7y3 ${IPurple} $BY${Color_Off}"
+    echo -e "\t  @v7y3 "
     echo -e "\t$@v7y3"
     echo -e "\t${On_Red}${BWhite}[!!] Atacar objetivos sin consentimiento mutuo previo es ILEGAL [!!]${Color_Off}"
     echo -e "\t${On_Red}${BWhite}[!!] El desarrollador no es responsables de ningún daño causado [!!]${Color_Off}"
