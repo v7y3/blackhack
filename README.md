@@ -12,7 +12,7 @@ Ejecutarlo como root:
 
 ```bash
 git clone https://github.com/v7y3blackhack
-cd blackhack; chmod +x blackhack.sh
+cd blackhack | chmod +x *  |  ./blackhack.sh
 ```
 
 Al ejecutarlo realizará la instalación automática de las dependencias para su ejecución correcta.
